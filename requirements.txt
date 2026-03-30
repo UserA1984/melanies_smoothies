@@ -1,7 +1,7 @@
 #requirements.txt
 snowflake-snowpark-python
 streamlit
-
+requests
 
 # Streamlit in Snowflake apps run with a pre-installed version of the Streamlit library.
 # To use a different version of the Streamlit library, you must add an External Access Integration to allow package downloads from PyPI or from another repository.
